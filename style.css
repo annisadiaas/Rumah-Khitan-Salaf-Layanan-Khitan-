@@ -1,0 +1,10 @@
+/* Mengatur font utama untuk seluruh halaman */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Memberi highlight pada link navbar yang sedang aktif */
+.nav-link.active {
+    color: #10B981; 
+    font-weight: 600;
+}
